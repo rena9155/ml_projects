@@ -1,3 +1,3 @@
 # ml_projects
 machine learning projects
-tbd
+This repository holds various machine learning projects
